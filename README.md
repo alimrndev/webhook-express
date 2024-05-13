@@ -26,7 +26,15 @@ If Already Docker Container
     exit
 ```
 
-Finally start the npm
+Change the Environtment
+```
+    copy example.env and paste with name .env
+```
+
+Finally install and start the npm
+```
+    npm run install
+```
 ```
     npm run start
 ```
